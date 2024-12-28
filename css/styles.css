@@ -1,0 +1,49 @@
+body {
+    background: lightyellow;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+	color:black;
+}
+
+h1 {
+    margin-top: 30px;
+}
+.design{
+	height:350px;
+	width:300px;
+	
+}
+.input-group {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#weatherResult {
+    margin-top: 30px;
+}
+
+
+.weather-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+	color:black;
+}
+
+.weather-icon {
+    width: 100px;
+    height: 100px;
+}
+ footer {
+            margin-top: 20px;
+            padding: 10px;
+            background: #6c757d;
+            color: white;
+            border-radius: 5px;
+            font-size: 14px;
+        }
