@@ -47,3 +47,42 @@ h1 {
             border-radius: 5px;
             font-size: 14px;
         }
+		  body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #ffefba, #ffffff);
+            color: #333;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+        h2 {
+            font-weight: 600;
+            color: #007bff;
+        }
+        .btn-primary {
+            background: #007bff;
+            border: none;
+        }
+        .btn-primary:hover {
+            background: #0056b3;
+        }
+        .btn-success {
+            background: #28a745;
+            border: none;
+        }
+        .btn-success:hover {
+            background: #1e7e34;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background: #6c757d;
+            color: white;
+            border-radius: 5px;
+            font-size: 14px;
+        }
